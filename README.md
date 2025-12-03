@@ -117,8 +117,7 @@ http://localhost:3000
 Backend:
 http://localhost:4001
 
-MongoDB:
-localhost:27017
+
 
 ⛔ Detener los Servicios
 Para detener y eliminar los contenedores:
@@ -150,7 +149,7 @@ Captura del frontend en el navegador
 
 Captura del backend respondiendo
 
-👨‍💻 Autor Edwin Botero, Mariana Muñoz, 
+👨‍💻 Autor Edwin Botero, Mariana Muñoz, Sara Angulo, Juliana Gutierrez
 Proyecto realizado con fines académicos para la práctica de:
 
 Contenerización de aplicaciones
